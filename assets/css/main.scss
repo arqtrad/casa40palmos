@@ -66,20 +66,20 @@
 }
 
 @import "settings";
-$paragraph-indent: true;
+//$paragraph-indent: true;
 $garamond: $mainFont;
 $monospace: "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
 $unb: "UnB Pro", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $sans-serif-narrow: $unb;
-$global-font-family: $garamond;
+$global-font-family: $unb;
 $header-font-family: $unb;
-$caption-font-family: $garamond;
-$background-color: $backgroundColor;
-$text-color: #111128; // Somewhat lighter/bluer than $mainColor.
-$facebook-color: $mainColor;
-$linkedin-color: $mainColor;
-$twitter-color: $mainColor;
+$caption-font-family: $unb;
+//$background-color: $backgroundColor;
+//$text-color: $mainColor;
+//$facebook-color: $mainColor;
+//$linkedin-color: $mainColor;
+//$twitter-color: $mainColor;
 
 @import url("https://use.typekit.net/hny1sfi.css");
 // Unlike Google Fonts, Adobe Fonts supports the whole range of OpenType features.

@@ -14,7 +14,7 @@ theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "pt-PT"
 title                    : "A casa de 40 palmos (±2)"
 title_separator          : "-"
 subtitle                 : "Um tipo edilício de base na modernidade"
@@ -223,7 +223,7 @@ kramdown:
 pandoc:
   extensions:
     - bibliography: "_bibliography/references.bib"
-    - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
+    - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas.csl"
     - defaults: "_spec/html.yaml"
     - section-divs
 relative_links:
@@ -315,7 +315,7 @@ defaults:
       path: ""
       #type: posts
     values:
-      classes: wide
+      #classes: wide
       layout: single
       author_profile: true
       read_time: true

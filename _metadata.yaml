@@ -1,3 +1,4 @@
-lang: pt-BR
+lang: pt-PT
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas.csl"
 crossrefYaml: "_crossref.yaml"
 suppress-bibliography: false
