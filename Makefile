@@ -16,7 +16,7 @@ vpath reference.% . _lib
 
 DEFAULTS := defaults.yaml references.bib
 JEKYLL-VERSION := 4.2.0
-PANDOC-VERSION := 2.14
+PANDOC-VERSION := 2.14.1
 JEKYLL/PANDOC  := docker run --rm -v "`pwd`:/srv/jekyll" \
 	-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
 	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
@@ -31,7 +31,7 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	$(PANDOC/LATEX) -d _spec/latex -o $@ $<
 	@echo "$< > $@"
 
-%.docx : %.md $(DEFAULTS) reference.docx
+%.docx : %.md $(DEFAULTS) reference.docx references.bib
 	$(PANDOC/CROSSREF) -d _spec/defaults -o $@ $<
 	@echo "$< > $@"
 
