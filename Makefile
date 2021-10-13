@@ -31,8 +31,8 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	$(PANDOC/LATEX) -d _spec/latex -o $@ $<
 	@echo "$< > $@"
 
-%.docx : %.md $(DEFAULTS) reference.docx references.bib
-	$(PANDOC/CROSSREF) -d _spec/defaults -o $@ $<
+%.docx : %.md $(DEFAULTS) docx.yaml reference.docx references.bib
+	$(PANDOC/CROSSREF) -d _spec/docx -o $@ $<
 	@echo "$< > $@"
 
 .PHONY : _site
