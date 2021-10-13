@@ -1,15 +1,16 @@
 ---
 title: "A casa corrente de 40 palmos (±2): um tipo português da idade liberal"
 subtitle: |
-  The 40-span (±2) rowhouse: a type from the liberal age in Portugal  
-  La casa adosada de 40 palmos (±2): un tipo portugués de la edad liberal
-author: "EIXO TEMÁTICO 4: Usos, técnicas e espaços"
+  La casa adosada de 40 palmos (±2): un tipo portugués de la edad liberal  
+  The 40-span (±2) rowhouse: a type from the liberal age in Portugal
 abstract: |
+  EIXO TEMÁTICO 4: Usos, técnicas e espaços
+
   **PALAZZO, Pedro P.**  
   Doutor em Arquitetura e Urbanismo. Investigador visitante no
   CHAM--FCSH, Universidade NOVA de Lisboa. Professor Associado da
   Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.  
-  palazzo@unb.br
+  palazzo@unb.br  
 lang: pt-BR
 ---
 
@@ -232,13 +233,20 @@ reforma do tecido edificado. As casas-pátio de tradição mediterrânea,
 que se desenvolviam amiúde em implantações quadradas com 50 palmos de
 lado e ao longo da profundidade do quarteirão com acesso por adarves,
 seriam reparceladas em lotes estreitos e profundos para casas correntes
-com 25 palmos de testada ([@fig:reparcela]). Esse processo foi
-documentado com grande detalhe na cidade de Murcia por Pedro Jiménez
+com 25 palmos de testada ([@fig:reparcela]). Esse processo, que envolve
+a amortização do adarve e sua consequente absorção no tecido construído,
+foi documentado com grande detalhe na cidade de Murcia por Pedro Jiménez
 Castillo e Julio Navarro Palazón [-@navarro:2001urbanismo, 114], e
 atestado também no tecido medieval de Lisboa e Coimbra
 [@coelho:2014tempos; @alarcao:2008coimbra].
 
-![Convergência do parcelamento urbanístico português para o lote com 25 palmos de testada. Esquerda: duas casas islâmicas com adarve; centro: o mesmo conjunto reparcelado em duas casas correntes; direita: duas casas em vila de fundação. Desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-25palmos-scaled.jpg){#fig:reparcela .line}
+![Esquema teórico da convergência do parcelamento urbanístico português.
+Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada,
+séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em
+duas casas correntes com c. 25 palmos de testada, séculos
+[XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com
+25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho do
+autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-25palmos-scaled.jpg){#fig:reparcela}
 
 A convergência do parcelamento intramuros português para o módulo de 25
 palmos na baixa Idade Média, tanto nas vilas de fundação ou loteamentos
@@ -261,9 +269,9 @@ tende a ser implantado em múltiplos desse módulo de 25 palmos. Dos
 edifícios multifamiliares do período joanino (meados do século
 [XVIII]{.smallcaps}) documentados por Ana Costa Rosado
 [@caldas:2014predio], quase todos apresentam uma testada próxima dos 50
-palmos (@fig:rendimento).
+palmos.
 
-![Prédios de rendimentos lisboetas na Idade Moderna: módulos urbanos de 25/50 palmos e suburbanos de 15/30 palmos. Desenho do autor](){#fig:rendimento .line}
+<!--![Prédios de rendimentos lisboetas na Idade Moderna: módulos urbanos de 25/50 palmos e suburbanos de 15/30 palmos. Desenho do autor](){#fig:rendimento .line}-->
 
 A urbanização do bairro Alto de Lisboa, no início do século
 [XVI]{.smallcaps}, evidencia o arranque de uma expansão que se poderá
@@ -295,7 +303,7 @@ liberal. Essa composição é a do "monte", um tipo de complexo rural de
 cunho doméstico e produtivo difundido por todo o Alentejo ao menos desde
 o início da Idade Moderna (@fig:monte).
 
-![Monte no Alentejo. Foto: [Mario M., 2007](https://commons.wikimedia.org/wiki/File:Monte.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Monte.jpg/1024px-Monte.jpg){#fig:monte .full}
+![Monte no Alentejo. Foto: [Mario M., 2007](https://commons.wikimedia.org/wiki/File:Monte.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/Monte.jpg){#fig:monte .full}
 
 <!--![Monte da Herdade do Rego, Vila Boim, concelho de Elvas. Ampliação de construção existente, projeto de [José Baganha, 2003. FG+SG Fotografia de Arquitectura](https://jbaganha.com/pt/portfolio/monte-da-herdade-do-rego/)](https://jbaganha.com/wp-content/uploads/2021/07/Jose-Baganha-Monte-Herdade-Rego-012.jpg){#fig:rego .full}-->
 
@@ -313,7 +321,7 @@ compósita pode, então, ser multiplicada na extensão transversal de um
 monte, e um corredor será introduzido para facilitar o acesso ao pátio
 ou eirado nos fundos da casa (@fig:monte-saloia).
 
-![Processo tipológico do monte alentejano e da casa saloia. Desenho do autor](){#fig:monte-saloia .line}
+![Formação de um monte alentejano por agregação transversal de módulos. Desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-monte-scaled.jpg){#fig:monte-saloia}
 
 Várias das moradas alentejanas estudadas por Baganha, especialmente nos
 montes, são dimensionadas segundo um módulo de 40 palmos que corresponde
@@ -428,7 +436,10 @@ Moderna, na teoria de Maria Simplício anteriormente exposta. Esse
 processo seria tanto mais plausível quanto ele acompanhe, no final do
 século [XIX]{.smallcaps}, o êxodo rural conduzindo para a periferia das
 cidades os contingentes de usuários bem como produtores de casas rurais
-em módulos mais esgarçados.
+em módulos mais esgarçados. Em Coimbra, portanto, a casa corrente de 40
+palmos comparece tanto em habitações populares na vizinhança da estação
+do caminho de ferro, quanto em sobrados mais elaborados nas colinas
+suburbanas [@martins:2013pegadas].
 
 # Tipo e variações da casa de 40 palmos #
 
@@ -533,9 +544,9 @@ retrabalhada junto com a cobertura, possivelmente na década de 1920.
 Algumas casas vizinhas, ainda térreas, evidenciam uma configuração mais
 simples de células alinhadas.
 
-![Casa arruinada à rua Vivas, Beirã, concelho de Marvão, final do século [XIX]{.smallcaps} ou início do [XX]{.smallcaps}. Foto do autor, 2018](){#fig:rua-vivas}
+![Casa arruinada à rua Vivas, Beirã, concelho de Marvão, final do século [XIX]{.smallcaps} ou início do [XX]{.smallcaps} com alterações no segundo quartel do século [XX]{.smallcaps}. Foto do autor, 2018](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beirã_Casario_à_Rua_Vivas_(42281571060).jpg/2560px-Beirã_Casario_à_Rua_Vivas_(42281571060).jpg){#fig:rua-vivas}
 
-![Tipos de habitações no bairro Camões, Entroncamento, 1925--1927. Desenhos a partir de @paixao:2016bairros](){#fig:entroncamento .line}
+![Tipos de habitações com cerca de 9 metros de testada no bairro Camões, Entroncamento, 1925--1927. Desenhos por @paixao:2016bairros](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-paixao-2016.png){#fig:entroncamento .line}
 
 Em contraste com a construção vernácula produzida por iniciativas
 privadas na Beirã, o bairro Camões no Entroncamento é resultado de
