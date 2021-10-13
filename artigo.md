@@ -74,7 +74,7 @@ apresenta grande flexibilidade funcional e compositiva, sendo adaptável
 para usos exclusivamente residenciais ou mistos, assim como para
 composições térreas ou assobradadas, unifamiliares ou multifamiliares.
 
-![Planta de uma casa de 40 palmos típica em Coimbra c. 1900. Desenho do autor](){#fig:40planta .line}
+![Fachada e planta de uma casa de 40 palmos típica em Coimbra c. 1900. Desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-coimbra-75.png){#fig:40planta .line}
 
 O ponto de partida deste estudo é a caracterização tipológica da casa
 corrente segundo a metodologia da "escola italiana" de tipologia
@@ -147,21 +147,23 @@ da formação da *domus* --- o estabelecimento de renques paralelos de
 células separados por um pátio ---, da "tavernização" --- a ocupação da
 testada do lote com um renque de células formando lojas ou oficinas ---
 e da "insulização" --- o desenvolvimento da casa em altura,
-eventualmente resultando em habitações multifamiliares
-([@fig:casacorte]). A casa corrente é um tipo derivado desse processo
+eventualmente resultando em habitações multifamiliares.
+A casa corrente é um tipo derivado desse processo
 por meio do desmembramento de uma *domus* ou *insula* em duas ou três
 faixas longitudinais [@caniggia:1984lettura].
 
-:::::::::::::::::::::::::::::::::::::::::::::: {#fig:casacorte .r-stack}
-![casa-pátio primitiva com exposição meridional](){#fig:casacorteA .line .fragment .current-visible width="50%"}
-![*domus* articulada em torno do pátio](){#fig:casacorteB .line .fragment .current-visible width="50%"}
-
-![*domus* tavernizada](){#fig:casacorteC .line .fragment .current-visible width="50%"}
-![duas casas correntes formadas pelo desmembramento da *domus*](){#fig:casacorteD .line .fragment .current-visible width="50%"} 
-
-Processo tipológico da casa-pátio do Mediterrâneo ocidental. Desenhos do
-autor, baseado na teoria de Caniggia e Maffei
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<!--
+   -:::::::::::::::::::::::::::::::::::::::::::::: {#fig:casacorte .r-stack}
+   -![casa-pátio primitiva com exposição meridional](){#fig:casacorteA .line .fragment .current-visible width="50%"}
+   -![*domus* articulada em torno do pátio](){#fig:casacorteB .line .fragment .current-visible width="50%"}
+   -
+   -![*domus* tavernizada](){#fig:casacorteC .line .fragment .current-visible width="50%"}
+   -![duas casas correntes formadas pelo desmembramento da *domus*](){#fig:casacorteD .line .fragment .current-visible width="50%"} 
+   -
+   -Processo tipológico da casa-pátio do Mediterrâneo ocidental. Desenhos do
+   -autor, baseado na teoria de Caniggia e Maffei
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -->
 
 No extremo oeste da península Ibérica, o processo tipológico da
 casa-pátio não comparece, num primeiro momento, com a clareza do
@@ -174,7 +176,7 @@ latifúndio como modo de exploração do território [@alarcao:1988dominio,
 107]. Desta feita, a conformação de um tipo portante não tem relação com
 a unidade de parcelamento rural.
 
-![Processo tipológico do chafurdão rural à morada de casas urbana no Alentejo. Desenho do autor com base na teoria de Reimão Costa e Rosado](){#fig:mertola .line}
+![Processo tipológico do chafurdão rural à morada de casas urbana no Alentejo. Desenho do autor com base na teoria de Reimão Costa e Rosado](https://hcommons.org/app/uploads/sites/1002372/2021/10/med-cells.png){#fig:mertola .nobg}
 
 Miguel Reimão Costa e Ana Costa Rosado [-@costa:2015desenho] propõem uma
 origem distinta para a arquitetura urbana do mundo lusitano, com base no
@@ -236,7 +238,7 @@ Castillo e Julio Navarro Palazón [-@navarro:2001urbanismo, 114], e
 atestado também no tecido medieval de Lisboa e Coimbra
 [@coelho:2014tempos; @alarcao:2008coimbra].
 
-![Convergência do parcelamento urbanístico português para o lote com 25 palmos de testada. Desenho do autor](){#fig:reparcela .line}
+![Convergência do parcelamento urbanístico português para o lote com 25 palmos de testada. Esquerda: duas casas islâmicas com adarve; centro: o mesmo conjunto reparcelado em duas casas correntes; direita: duas casas em vila de fundação. Desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-25palmos-scaled.jpg){#fig:reparcela .line}
 
 A convergência do parcelamento intramuros português para o módulo de 25
 palmos na baixa Idade Média, tanto nas vilas de fundação ou loteamentos
