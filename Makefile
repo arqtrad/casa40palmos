@@ -13,6 +13,7 @@ vpath %.bib _bibliography
 vpath %.yaml . _spec
 vpath default.% . _lib
 vpath reference.% . _lib
+vpath %.scss _sass slides/reveal.js/css/theme/template
 
 DEFAULTS := defaults.yaml references.bib
 JEKYLL-VERSION := 4.2.0
@@ -25,6 +26,9 @@ PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/latex:$(PANDOC-VERSION)
 
+SASS    = mixins.scss theme.scss \
+					assets/css/revealjs-main.scss
+
 # Targets and recipes {{{1
 # ===================
 %.pdf : %.md references.bib latex.yaml
@@ -35,13 +39,23 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 	$(PANDOC/CROSSREF) -d _spec/docx -o $@ $<
 	@echo "$< > $@"
 
+slides/index.html : _slides/index.md references.bib \
+	revealjs.yaml revealjs-crossref.yaml $(SASS) reveal.js
+	@-mkdir -p $(@D)
+	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
+	@echo $(@D)
+
+$(SASS) :
+	@test -e reveal.js || \
+		git clone --depth=1 https://github.com/hakimel/reveal.js
+
 .PHONY : _site
-_site : 
+_site : slides/index.html
 	@$(JEKYLL/PANDOC) /bin/bash -c \
 	"chmod 777 /srv/jekyll && jekyll build"
 
 .PHONY : serve
-serve : 
+serve : slides/index.html
 	@$(JEKYLL/PANDOC) jekyll serve
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
