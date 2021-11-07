@@ -40,9 +40,9 @@ SASS    = mixins.scss theme.scss \
 	@echo "$< > $@"
 
 slides/index.html : _slides/index.md references.bib \
-	revealjs.yaml revealjs-crossref.yaml $(SASS) reveal.js
+	_revealjs.yaml revealjs-crossref.yaml $(SASS) reveal.js
 	@-mkdir -p $(@D)
-	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
+	@$(PANDOC/CROSSREF) -o $@ -d _revealjs.yaml $<
 	@echo $(@D)
 
 $(SASS) :
