@@ -39,14 +39,9 @@ autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-25palmos-
 
 ![Monte da Herdade do Rego, Vila Boim, concelho de Elvas. Ampliação de construção existente, projeto de [José Baganha, 2003. FG+SG Fotografia de Arquitectura](https://jbaganha.com/pt/portfolio/monte-da-herdade-do-rego/)](https://jbaganha.com/wp-content/uploads/2021/07/Jose-Baganha-Monte-Herdade-Rego-012.jpg){#fig:rego .full}
 
-# {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-monte-scaled.jpg"}
+# {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-monte-scaled.jpg" data-background-size="contain"}
 
 ![Formação de um monte alentejano por agregação transversal de módulos. Desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-monte-scaled.jpg){#fig:monte-saloia}
-
-# {data-background-image=""}
-
-![Casa de 40 palmos em Luziânia, Goiás, século
-[XIX]{.smallcaps}](){#fig:luzi}
 
 # {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/11/pt-marvao-beira-julia_de_santos-2018-2-scaled.jpg"}
 
@@ -58,6 +53,10 @@ segundo quartel do século [XX]{.smallcaps}. Desenho: Julia de Santos,
 # {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/07/pt-aveiro-200905-pp-1000.jpg"}
 
 ![Casas de 40 palmos em meio a outras dimensões de lotes na freguesia de Vera Cruz, Aveiro. Foto do autor](https://hcommons.org/app/uploads/sites/1001018/2021/07/pt-aveiro-200905-pp-1000.jpg){#fig:aveiro}
+
+# {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/11/pt-coimbra-saragoca_x_guerra_junqueiro-210411-pp-1588.jpg"}
+
+![Casas de 40 palmos em meio a outras dimensões de lotes em tecido de crescimento urbano da virada do século [XX]{.smallcaps}, Coimbra. Foto do autor](https://hcommons.org/app/uploads/sites/1001018/2021/11/pt-coimbra-saragoca_x_guerra_junqueiro-210411-pp-1588.jpg){#fig:saragoca-gjunqueiro}
 
 # {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-paixao-2016.png" data-background-size="contain"}
 
