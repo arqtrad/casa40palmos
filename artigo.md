@@ -442,7 +442,7 @@ palmos comparece tanto em habitações populares na vizinhança da estação
 do caminho de ferro, quanto em sobrados mais elaborados nas colinas
 suburbanas [@martins:2013pegadas].
 
-# Tipo e variações da casa de 40 palmos #
+# Setorização da casa suburbana de 40 palmos #
 
 A morada de casas alentejana com 40 palmos de extensão responde, como já
 foi visto mais acima, à articulação de três ou quatro células (ditas
@@ -507,6 +507,8 @@ distributivas, o processo tipológico da casa de 40 palmos evidencia um
 sistema de ordem emergente protagonizado por artífices vernáculos e
 habitantes em meio à desagregação de modos de vida tradicionais diante
 da industrialização e da urbanização aceleradas.
+
+# Casas de 40 palmos em vilas operárias #
 
 A flexibilidade do tipo da casa de 40 palmos se evidencia no último
 impulso da modernização liberal em Portugal: a implantação da vila
