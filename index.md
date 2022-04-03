@@ -10,6 +10,7 @@ abstract: |
   CHAM--FCSH, Universidade NOVA de Lisboa. Professor Associado da
   Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.  
   palazzo@unb.br
+bibliography: _data/biblio.yaml
 ---
 
 No limiar da industrialização de Portugal durante a idade da monarquia

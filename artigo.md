@@ -12,6 +12,7 @@ abstract: |
   Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.  
   palazzo@unb.br  
 lang: pt-BR
+bibliography: _data/biblio.yaml
 ---
 
 # Introdução #

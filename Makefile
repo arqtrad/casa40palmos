@@ -9,13 +9,12 @@
 # Global variables and setup {{{1
 # ================
 VPATH = _lib
-vpath %.bib _bibliography
-vpath %.yaml . _spec
+vpath %.yaml . _spec _data
 vpath default.% . _lib
 vpath reference.% . _lib
 vpath %.scss _sass slides/reveal.js/css/theme/template
 
-DEFAULTS := defaults.yaml references.bib
+DEFAULTS := defaults.yaml biblio.yaml
 JEKYLL-VERSION := 4.2.0
 PANDOC-VERSION := 2.14.1
 JEKYLL/PANDOC  := docker run --rm -v "`pwd`:/srv/jekyll" \
@@ -31,15 +30,15 @@ SASS    = mixins.scss theme.scss \
 
 # Targets and recipes {{{1
 # ===================
-%.pdf : %.md references.bib latex.yaml
+%.pdf : %.md biblio.yaml latex.yaml
 	$(PANDOC/LATEX) -d _spec/latex -o $@ $<
 	@echo "$< > $@"
 
-%.docx : %.md $(DEFAULTS) docx.yaml reference.docx references.bib
+%.docx : %.md $(DEFAULTS) docx.yaml reference.docx biblio.yaml
 	$(PANDOC/CROSSREF) -d _spec/docx -o $@ $<
 	@echo "$< > $@"
 
-slides/index.html : _slides/index.md references.bib \
+slides/index.html : _slides/index.md biblio.yaml \
 	_revealjs.yaml revealjs-crossref.yaml $(SASS) reveal.js
 	@-mkdir -p $(@D)
 	@$(PANDOC/CROSSREF) -o $@ -d _revealjs.yaml $<
