@@ -38,11 +38,9 @@ aproximadamente 40 palmos (9 metros), com pequenas variações para mais
 ou para menos. Esse tipo é predominantemente atestado de meados do
 século [XIX]{.smallcaps} até o início do [XX]{.smallcaps} em tecidos de
 expansão suburbana nas Beiras, como na área de Montarroio e Montes
-Claros em Coimbra (@fig:coimbra), nos cais de Aveiro (@fig:aveiro), ou
+Claros em Coimbra (@fig:coimbra), nos cais de Aveiro, ou
 ainda em alguns projetos seriados na vila ferroviária do Entroncamento
 [@paixao:2016bairros].
-
-![Casas de 40 palmos em meio a outras dimensões de lotes na freguesia de Vera Cruz, Aveiro. Foto do autor](https://hcommons.org/app/uploads/sites/1001018/2021/07/pt-aveiro-200905-pp-1000.jpg){#fig:aveiro}
 
 Este tipo de casa corrente, atestado no limiar cronológico e conceitual
 da modernização industrial, é um caso extremo importante para se debater
