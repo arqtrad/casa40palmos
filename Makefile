@@ -19,11 +19,15 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 # Targets and recipes {{{1
 # ===================
 %.pdf : %.md biblio.yaml latex.yaml
-	$(PANDOC/LATEX) -d _spec/latex -o $@ $<
+	docker run --rm -v "`pwd`:/data" \
+	-u "`id -u`:`id -g`" pandoc/latex:$(PANDOC-VERSION) \
+  -d _spec/latex -o $@ $<
 	@echo "$< > $@"
 
 %.docx : %.md $(DEFAULTS) docx.yaml reference.docx biblio.yaml
-	$(PANDOC/CROSSREF) -d _spec/docx -o $@ $<
+	docker run --rm -v "`pwd`:/data" \
+	-u "`id -u`:`id -g`" pandoc/core:$(PANDOC-VERSION) \
+	-d _spec/docx -o $@ $<
 	@echo "$< > $@"
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
