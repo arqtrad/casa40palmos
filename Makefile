@@ -1,11 +1,3 @@
-# This Makefile provides sensible defaults for projects
-# based on Pandoc and Jekyll, such as:
-# - Dockerized runs of Pandoc and Jekyll with separate
-#   variables for version numbers = easy update!
-# - Lean CSL checkouts without committing to the repo
-# - Website built on the gh-pages branch
-# - Bibliography path compatible with Jekyll-Scholar
-
 # Global variables and setup {{{1
 # ================
 VPATH = _lib
