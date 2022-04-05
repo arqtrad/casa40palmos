@@ -31,14 +31,12 @@ no espectro vernáculo, mostrando como ele representa uma transição
 espontânea desde soluções mais antigas, produzida por agentes inseridos
 em linhagens produtivas tradicionais.
 
-![Casas correntes de 40 palmos em Montes Claros, Coimbra. Foto do autor](https://hcommons.org/app/uploads/sites/1001018/2021/07/pt-coimbra-montes_claros-200615-pp-5531-crop-scaled.jpg){#fig:coimbra .fullwidth}
-
 O objeto de estudo em questão é um tipo de casa corrente com testada de
 aproximadamente 40 palmos (9 metros), com pequenas variações para mais
 ou para menos. Esse tipo é predominantemente atestado de meados do
 século [XIX]{.smallcaps} até o início do [XX]{.smallcaps} em tecidos de
 expansão suburbana nas Beiras, como na área de Montarroio e Montes
-Claros em Coimbra (@fig:coimbra), nos cais de Aveiro, ou
+Claros em Coimbra, nos cais de Aveiro, ou
 ainda em alguns projetos seriados na vila ferroviária do Entroncamento
 [@paixao:2016bairros].
 
@@ -74,7 +72,7 @@ apresenta grande flexibilidade funcional e compositiva, sendo adaptável
 para usos exclusivamente residenciais ou mistos, assim como para
 composições térreas ou assobradadas, unifamiliares ou multifamiliares.
 
-![Fachada e planta de uma casa de 40 palmos à rua cap. Luís Gonzaga, Coimbra, anterior a 1934. Levantamento e desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-coimbra-75.png){#fig:40planta .line}
+![Fachada e planta de uma casa de 40 palmos à rua cap. Luís Gonzaga, Coimbra, anterior a 1934. Levantamento e desenho do autor](https://hcommons.org/app/uploads/sites/1001018/2022/04/pt-coimbra-casa-rua-luis-gonzaga-demolida.jpg){#fig:40planta .nobg}
 
 O ponto de partida deste estudo é a caracterização tipológica da casa
 corrente segundo a metodologia da "escola italiana" de tipologia
@@ -357,7 +355,7 @@ qualquer caso, certo é que em meados do século [XIX]{.smallcaps} as
 casas de 40 palmos (± 2) comparecem, ao menos, no crescimento suburbano
 de diversas povoações no vale do Tejo, como Chamusca, e em pontos
 isolados das Beiras, sendo o mais ilustre exemplo o tecido de casas de
-adobe oitocentistas em Aveiro. Esses crescimentos consistem amiúde em
+adobe oitocentistas em Aveiro ([@fig:aveiro]). Esses crescimentos consistem amiúde de
 loteamentos planejados com dimensões modulares de lotes, mas é frequente
 também a ocorrência de lotes com 40 palmos intercalados entre outras
 dimensões irregulares. Esses tecidos caracterizam os novos modos de
@@ -462,15 +460,18 @@ ser adaptada para o contexto suburbano de finais do século
 volumosa na fachada. Ao relegar o uso do fogo para um aparato mais
 diminuto, o fogão a lenha industrializado, a transposição libera a
 fachada para formar uma composição simétrica com a porta no centro e uma
-janela de cada lado. Essa configuração é a primeira e mais marcante
-particularidade nas casas suburbanas do vale do Tejo para o norte, em
-contraste com as casas mais marcadamente de tradição Alentejana.
+janela de cada lado. Essa configuração, que contrasta com as casas de
+tradição Alentejana, é a primeira e mais marcante particularidade nas
+casas suburbanas do vale do Tejo para o norte, como neste renque
+especulativo no bairro de Montes Claros em Coimbra ([@fig:coimbra]).
+
+![Casas correntes de 40 palmos em Montes Claros, Coimbra. Foto do autor](https://hcommons.org/app/uploads/sites/1001018/2021/07/pt-coimbra-montes_claros-200615-pp-5531-crop-scaled.jpg){#fig:coimbra .fullwidth}
 
 Outrossim, o posicionamento axial da porta de entrada faz dela um
 elemento articulador da circulação interior. Em vez da sala dianteira
 alongada no eixo transversal, característica do monte alentejano, a casa
 suburbana de 40 palmos pode adotar um eixo distributivo longitudinal na
-forma de um corredor que alcança até o quintal nos fundos. A divisão no
+forma de um corredor que alcança até o quintal nos fundos (ver @fig:40planta). A divisão no
 espaço dianteiro introduzida pelo corredor responde à realocação das
 atividades de socialização na cidade burguesa. Na casa rural e na
 pequena povoação tradicional, o salão principal é o domínio da família e
