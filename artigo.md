@@ -1,18 +1,14 @@
 ---
 title: "A casa corrente de 40 palmos (±2): um tipo português da idade liberal"
-subtitle: |
-  La casa adosada de 40 palmos (±2): un tipo portugués de la edad liberal  
-  The 40-span (±2) rowhouse: a type from the liberal age in Portugal
+author: PALAZZO, Pedro P.
 abstract: |
-  EIXO TEMÁTICO 4: Usos, técnicas e espaços
-
-  **PALAZZO, Pedro P.**  
-  Doutor em Arquitetura e Urbanismo. Investigador visitante no
-  CHAM--FCSH, Universidade NOVA de Lisboa. Professor Associado da
+  Doutor em Arquitetura e Urbanismo. Professor Associado da
   Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.  
   palazzo@unb.br  
 lang: pt-BR
 bibliography: _data/biblio.yaml
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/associacao-brasileira-de-normas-tecnicas.csl
+crossrefYaml: _crossref.yaml
 ---
 
 # Introdução #
@@ -299,7 +295,7 @@ dessas composições, mas no âmbito rural, emerge a matriz que
 caracterizará, de modo mais direto, a casa de 40 palmos (± 2) da idade
 liberal. Essa composição é a do "monte", um tipo de complexo rural de
 cunho doméstico e produtivo difundido por todo o Alentejo ao menos desde
-o início da Idade Moderna (@fig:monte).
+o início da Idade Moderna.
 
 <!--![Monte no Alentejo. Foto: [Mario M., 2007](https://commons.wikimedia.org/wiki/File:Monte.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/Monte.jpg){#fig:monte}-->
 
@@ -363,6 +359,8 @@ expansão dos núcleos urbanos no contexto da industrialização e da
 constituição de mercados imobiliários modernos em Portugal, processos
 que se intensificam nas últimas décadas da monarquia liberal, a partir
 de finais do século [XIX]{.smallcaps}.
+
+![Casas de 40 palmos em meio a outras dimensões de lotes na freguesia de Vera Cruz, Aveiro. Foto do autor](https://hcommons.org/app/uploads/sites/1001018/2021/07/pt-aveiro-200905-pp-1000.jpg){#fig:aveiro}
 
 ## Crescimentos suburbanos na idade liberal ##
 
