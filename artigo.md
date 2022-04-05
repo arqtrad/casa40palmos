@@ -74,7 +74,7 @@ apresenta grande flexibilidade funcional e compositiva, sendo adaptável
 para usos exclusivamente residenciais ou mistos, assim como para
 composições térreas ou assobradadas, unifamiliares ou multifamiliares.
 
-![Fachada e planta de uma casa de 40 palmos típica em Coimbra c. 1900. Desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-coimbra-75.png){#fig:40planta .line}
+![Fachada e planta de uma casa de 40 palmos à rua cap. Luís Gonzaga, Coimbra, anterior a 1934. Levantamento e desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-coimbra-75.png){#fig:40planta .line}
 
 O ponto de partida deste estudo é a caracterização tipológica da casa
 corrente segundo a metodologia da "escola italiana" de tipologia
@@ -98,7 +98,9 @@ tipo em gerar sistemas de ordem emergente em resposta a condições
 espaciais e produtivas diversas, caracterizando sua adaptação à rapidez
 das transformações socioespaciais da idade liberal.
 
-# Tipologia de casas correntes #
+# Substrato urbanístico #
+
+## Tipologia de casas correntes ##
 
 A casa corrente portuguesa faz parte de um processo tipológico com
 ramificações complexas, inserido numa rede mais ampla de tradições
@@ -142,7 +144,10 @@ Segundo Caniggia e Gian Luigi Maffei [-@caniggia:2008lettura], o tipo
 edilício de base primordial ou "tipo portante" --- aquele que determina
 o módulo de parcelamento do solo --- no Mediterrâneo ocidental é a
 casa-pátio da pequena propriedade rural, sempre com exposição ao sul e
-uma célula de profundidade. Esse tipo se adensa por meio dos fenômenos
+uma célula de profundidade. A casa-pátio paradigmática
+para Caniggia é aquela implantada sobre um lote com testada de 60 pés
+romanos romanos (60 pés × 29 centímetros ≈ 17 metros).
+Esse tipo se adensa por meio dos fenômenos
 da formação da *domus* --- o estabelecimento de renques paralelos de
 células separados por um pátio ---, da "tavernização" --- a ocupação da
 testada do lote com um renque de células formando lojas ou oficinas ---
@@ -167,16 +172,12 @@ faixas longitudinais [@caniggia:1984lettura].
 
 No extremo oeste da península Ibérica, o processo tipológico da
 casa-pátio não comparece, num primeiro momento, com a clareza do
-conceito de casa-pátio exposto por Caniggia. A casa-pátio paradigmática
-para Caniggia é aquela implantada sobre um lote com testada de 50 pés
-romanos (50 pés × 30 centímetros = 15 metros). Não obstante essa teoria,
-a centuriação romana que resulta nessas pequenas propriedades é fenômeno
-raro no território lusitano, onde, segundo Jorge de Alarcão, predomina o
-latifúndio como modo de exploração do território [@alarcao:1988dominio,
-107]. Desta feita, a conformação de um tipo portante não tem relação com
-a unidade de parcelamento rural.
-
-![Processo tipológico do chafurdão rural à morada de casas urbana no Alentejo. Desenho do autor com base na teoria de Reimão Costa e Rosado](https://hcommons.org/app/uploads/sites/1002372/2021/10/med-cells.png){#fig:mertola .nobg}
+conceito de casa-pátio exposto por Caniggia.
+A centuriação romana que resulta nessas pequenas propriedades é
+fenômeno raro no território lusitano, onde, segundo Jorge de Alarcão,
+predomina o latifúndio como modo de exploração do território
+[@alarcao:1988dominio, 107]. Desta feita, a conformação de um tipo
+portante não tem relação com a unidade de parcelamento rural.
 
 Miguel Reimão Costa e Ana Costa Rosado [-@costa:2015desenho] propõem uma
 origem distinta para a arquitetura urbana do mundo lusitano, com base no
@@ -187,15 +188,19 @@ tipológico. Esse pequeno ambiente com 15 a 20 palmos de lado (15 palmos
 sua vez, segundo Ilaria Agostini e Daniele Vannetiello
 [-@agostini:1999casa, 269], um desdobramento do chafurdão rural de
 planta circular, transformado para poder ser construído com paredes de
-meação. Essa "casa" singular vai então ser multiplicada, num processo
+meação.
+
+![Processo tipológico do chafurdão rural à morada de casas urbana no Alentejo. Desenho do autor com base na teoria de Miguel Reimão Costa e Ana Costa Rosado](https://hcommons.org/app/uploads/sites/1002372/2021/10/med-cells.png){#fig:mertola .nobg}
+
+Essa "casa" singular vai então ser multiplicada, num processo
 tipológico que vai da pré-história tardia ao final da Idade Moderna,
 para resultar na "morada de casas" urbana do Alentejo ([@fig:mertola]).
 A relevância dessas células alentejanas de pequenas dimensões para a
 conformação do tipo da casa de 40 palmos (± 2) ficará evidente depois de
 um confronto com o processo tipológico mais característico das regiões
-mais setentrionais de Portugal.
+do centro--norte de Portugal.
 
-# Módulos urbanísticos portugueses #
+## Módulos urbanísticos portugueses ##
 
 A partir do período islâmico, nos século [X]{.smallcaps} a
 [XII]{.smallcaps}, emerge uma leitura mais nítida de um "tipo portante"
@@ -239,13 +244,7 @@ Castillo e Julio Navarro Palazón [-@navarro:2001urbanismo, 114], e
 atestado também no tecido medieval de Lisboa e Coimbra
 [@coelho:2014tempos; @alarcao:2008coimbra].
 
-![Esquema teórico da convergência do parcelamento urbanístico português.
-Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada,
-séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em
-duas casas correntes com c. 25 palmos de testada, séculos
-[XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com
-25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho do
-autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-25palmos-scaled.jpg){#fig:reparcela}
+![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho do autor](https://hcommons.org/app/uploads/sites/1002372/2021/10/40palmos-25palmos-scaled.jpg){#fig:reparcela}
 
 A convergência do parcelamento intramuros português para o módulo de 25
 palmos na baixa Idade Média, tanto nas vilas de fundação ou loteamentos
@@ -264,7 +263,7 @@ mercados. Em contraste, o parcelamento planejado de casas ditas
 cidade, tem predomínio de lotes com 25 palmos.
 
 Em Lisboa, o prédio de rendimento que se difunde na Idade Moderna também
-tende a ser implantado em múltiplos desse módulo de 25 palmos. Dos
+tende a ser implantado em múltiplos desse módulo de 25 ou 50 palmos. Dos
 edifícios multifamiliares do período joanino (meados do século
 [XVIII]{.smallcaps}) documentados por Ana Costa Rosado
 [@caldas:2014predio], quase todos apresentam uma testada próxima dos 50
@@ -283,7 +282,9 @@ edifícios estreitos de 15 palmos, e cada vez mais a partir do final do
 século [XVII]{.smallcaps} por palacetes e edifícios de rendimentos
 abarcando a largura total de um lote.
 
-# Raízes na morada rural alentejana #
+# Formação do tipo #
+
+## Raízes na morada rural alentejana ##
 
 Nesse contexto de predomínio dos módulos de 25/50 e 15/30 palmos nos
 tecidos urbanos e de arrabaldes portugueses na Idade Moderna, as origens
@@ -302,7 +303,7 @@ liberal. Essa composição é a do "monte", um tipo de complexo rural de
 cunho doméstico e produtivo difundido por todo o Alentejo ao menos desde
 o início da Idade Moderna (@fig:monte).
 
-![Monte no Alentejo. Foto: [Mario M., 2007](https://commons.wikimedia.org/wiki/File:Monte.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/Monte.jpg){#fig:monte .full}
+<!--![Monte no Alentejo. Foto: [Mario M., 2007](https://commons.wikimedia.org/wiki/File:Monte.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/07/Monte.jpg){#fig:monte}-->
 
 <!--![Monte da Herdade do Rego, Vila Boim, concelho de Elvas. Ampliação de construção existente, projeto de [José Baganha, 2003. FG+SG Fotografia de Arquitectura](https://jbaganha.com/pt/portfolio/monte-da-herdade-do-rego/)](https://jbaganha.com/wp-content/uploads/2021/07/Jose-Baganha-Monte-Herdade-Rego-012.jpg){#fig:rego .full}-->
 
@@ -365,7 +366,7 @@ constituição de mercados imobiliários modernos em Portugal, processos
 que se intensificam nas últimas décadas da monarquia liberal, a partir
 de finais do século [XIX]{.smallcaps}.
 
-# Crescimentos suburbanos na idade liberal #
+## Crescimentos suburbanos na idade liberal ##
 
 O período da monarquia liberal, no sentido estritamente formalista do
 conceito, se estende da vitória das forças constitucionalistas sob D.
@@ -440,7 +441,9 @@ palmos comparece tanto em habitações populares na vizinhança da estação
 do caminho de ferro, quanto em sobrados mais elaborados nas colinas
 suburbanas [@martins:2013pegadas].
 
-# Setorização da casa suburbana de 40 palmos #
+# Consolidação e experimentações #
+
+## Setorização da casa suburbana de 40 palmos ##
 
 A morada de casas alentejana com 40 palmos de extensão responde, como já
 foi visto mais acima, à articulação de três ou quatro células (ditas
@@ -506,7 +509,7 @@ sistema de ordem emergente protagonizado por artífices vernáculos e
 habitantes em meio à desagregação de modos de vida tradicionais diante
 da industrialização e da urbanização aceleradas.
 
-# Casas de 40 palmos em vilas operárias #
+## Casas de 40 palmos em vilas operárias ##
 
 A flexibilidade do tipo da casa de 40 palmos se evidencia no último
 impulso da modernização liberal em Portugal: a implantação da vila
